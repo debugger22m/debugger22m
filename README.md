@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on solving leetcode
+Hi I'm Prat
 
 
 # 💻 Tech Stack:
